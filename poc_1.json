@@ -1,0 +1,9 @@
+{
+  "url": "https://raw.githubusercontent.com/concavangxanhlacay/poc/main/poc1.yaml",
+  "urls": [
+    {
+      "url": "https://raw.githubusercontent.com/concavangxanhlacay/poc/main/poc1.yaml",
+      "name": "Foo"
+    }
+   ]
+}
